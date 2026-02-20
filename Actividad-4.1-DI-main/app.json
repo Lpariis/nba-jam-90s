@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "NBA JAM 90s",
+    "slug": "nba-jam-90s",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "android": {
+      "package": "com.yourname.nbajam90s",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#000000"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "4a3985d9-3e49-43fd-9b60-a34d14db5f87"
+      }
+    }
+  }
+}
